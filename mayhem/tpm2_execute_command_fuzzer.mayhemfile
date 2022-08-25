@@ -1,0 +1,4 @@
+project: PROJECT
+target: tpm2_execute_command_fuzzer
+cmds:
+- cmd: /out/tpm2_execute_command_fuzzer
